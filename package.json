@@ -1,0 +1,15 @@
+{
+  "name": "traceur-source-maps-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "traceur": "0.0.78",
+    "traceur-source-maps": "^1.0.6"
+  }
+}
